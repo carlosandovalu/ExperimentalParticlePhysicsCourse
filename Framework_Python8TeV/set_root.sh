@@ -1,0 +1,1 @@
+source /usr/local/Cellar/root/6.22.00_1/bin/thisroot.sh 
